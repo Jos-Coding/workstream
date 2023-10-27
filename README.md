@@ -22,7 +22,7 @@
 
 ## Exploratory Data Analysis (EDA)
 
-- Provide a summary of your EDA, including key insights and visualizations. Use Jupyter Notebook or other tools to generate visualizations and describe the patterns or anomalies discovered.
+- Provide a summary of your Exploratory Data Analysis (EDA), including key insights and visualizations. Use Jupyter Notebook or other tools to generate visualizations and describe the patterns or anomalies discovered.
 
 ## Model Building
 
@@ -47,3 +47,5 @@
 ## Contact
 
 - Provide contact information or ways to reach out to the project team or data scientists involved.
+
+
