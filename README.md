@@ -49,3 +49,4 @@
 - Provide contact information or ways to reach out to the project team or data scientists involved.
 
 
+pdf_directory = "C:/Users/SEKHE/Documents/GitHub/workstream/data/downloaded_vd_pdfs"
